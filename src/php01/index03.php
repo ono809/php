@@ -1,5 +1,5 @@
 <?php
-$name1 = "Tanaka";
+$name1 = "ono";
 $last_name = "Yamada";
 $first_name = "Saburo";
 
